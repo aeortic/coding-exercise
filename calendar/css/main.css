@@ -1,0 +1,11 @@
+.unavailable {
+    background-color: rgba(193, 16, 21, 0.39);
+}
+
+#calendar {
+    text-align: center;
+}
+
+#dateDisplay {
+    display: inline-block;
+}
